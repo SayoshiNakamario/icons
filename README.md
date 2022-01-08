@@ -1,3 +1,3 @@
-# MistSwap Icons
+# FOWS Icons
 
 ...
